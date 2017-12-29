@@ -1,4 +1,4 @@
-cd ~/shadowsocksr/shadowsocks/&&sudo python local.py -c /etc/shadowsocks.json -d stop
+cd ~/ssr/shadowsocks/&&sudo python local.py -c ~/ssr/shadowsocks.json -d stop
 
 
 
