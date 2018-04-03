@@ -1,3 +1,11 @@
+脚本和配置文件都在bash文件夹里面.
+ssr-start.bash   开启ssr
+ssr-restart.bash 重启ssr
+ssr-stop.bash    停止ssr
+shadowsocks.json写入节点的配置文件
+
+
+
 ShadowsocksR
 ===========
 
