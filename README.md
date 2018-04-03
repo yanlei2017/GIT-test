@@ -6,6 +6,8 @@ ssr-restart.bash 重启ssr
 
 ssr-stop.bash    停止ssr
 
+根据自己的目录来更改以上3个脚本文件的目录
+
 shadowsocks.json写入节点的配置文件
 
 
