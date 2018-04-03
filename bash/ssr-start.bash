@@ -1,4 +1,4 @@
-cd ~/ssr/shadowsocks/&&sudo python local.py -c ~/ssr/shadowsocks.json -d restart
+cd ~/ssr/shadowsocks/&&sudo python local.py -c ~/ssr/shadowsocks.json -d start
 
 
 
